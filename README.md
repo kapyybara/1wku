@@ -15,5 +15,4 @@
 <img width="50px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919847.png" />
 </p>
-<img src="https://media1.giphy.com/media/22kxQ12cxyEww/giphy.gif"/>
 <h2>Recent: ...</h2>
