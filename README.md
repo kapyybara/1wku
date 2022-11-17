@@ -1,7 +1,6 @@
 <h1>Hello, I'm Pham Nhat Tien from Vietnam <img width="30px" src="https://bestanimations.com/media/vietnam/1934513302vietnam-flag-gif.gif"/></h1>
 <ul>
   <li> I'm a student of: <a href="https://hcmute.edu.vn/">Ho Chi Minh city University of Technology and Education <a/> </li>
-  <li> I’m currently learning <strong>MERN</strong> Stack.</li>
 </ul>
 <h2>My skills:</h2>
 <p>
